@@ -19,7 +19,7 @@ pip install rich
 
 **Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/sshf.git
+git clone https://github.com/Nurimy97/sshf.git
 cd sshf
 ```
 
